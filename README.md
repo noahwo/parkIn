@@ -1,7 +1,6 @@
 # parkIn
 A Parking Lot Management System Based on Computer Vision
 
-## Content would be here before 10 Dec 2022, including some main diagrams of the system design and coresponding descriptions. Source code would not be uploaded here.
 
 #### Figure 1. A graphical abstract of the designed target system
 <img width="1420" alt="image" src="https://user-images.githubusercontent.com/26848129/206046157-1e804fc4-2287-4953-a19c-3cd304ea7dac.png">
