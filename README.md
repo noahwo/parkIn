@@ -26,6 +26,6 @@ A Parking Lot Management System Based on Computer Vision
 
 ### Figure 6. Parking slots status detection.
 
-<img width="1034" alt="image" src="https://user-images.githubusercontent.com/26848129/206047687-78abd496-8218-41dc-8d13-bd6fe75b82b2.png">
+<img width="634" alt="image" src="https://user-images.githubusercontent.com/26848129/206047687-78abd496-8218-41dc-8d13-bd6fe75b82b2.png">
 
 ### Figure 7. Simulation of the entrance of parking lot
